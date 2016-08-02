@@ -8,7 +8,7 @@ $(function(){
       "coffee",
       "StackOverflow",
       "clean code",
-      "100% test coverage",
+      "personal development",
       "learning",
       "leadership",
       "Github",

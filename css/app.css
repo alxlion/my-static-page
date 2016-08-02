@@ -25,6 +25,11 @@ span.bigger {
   font-weight: 700;
 }
 
+span.small {
+  font-size: 0.7em;
+  color: #1e1e1e;
+}
+
 span.italic {
   font-style: italic;
 }
