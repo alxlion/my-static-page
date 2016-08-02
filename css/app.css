@@ -52,7 +52,7 @@ span.italic {
     -webkit-transform: rotate(90deg);
     transform: rotate(90deg);
     font-weight: 700;
-    font-size: 7em;
+    font-size: 5em;
     line-height: 0.2em;
     -webkit-animation: fume 3s;
     -moz-animation: fume 3s;
