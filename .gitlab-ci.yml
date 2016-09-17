@@ -1,8 +1,0 @@
-production:
-    type: deploy
-    script:
-    - apt-get update
-    - apt-get install -y ncftp
-    - ./deploy.sh
-    only:
-    - master
