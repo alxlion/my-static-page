@@ -2,22 +2,27 @@ $(function(){
   $(".love").typed({
     strings: [
       "open-source",
-      "free and open-source software",
+      "FOSS software",
       "Vim",
       "Linux",
       "coffee",
       "StackOverflow",
       "clean code",
-      "personal development",
+      "personal improvement",
       "learning",
       "leadership",
       "Github",
       "hamburgers",
       "innovation",
-      "improvement",
-      "Bitcoins",
+      "bitcoins",
       "reddit",
-      "music"
+      "music",
+      "minimalism",
+      "decentralization",
+      "security and privacy",
+      "free speech",
+      "fsociety",
+      "IoT"
     ],
     typeSpeed: 0,
     loop: true
