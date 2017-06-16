@@ -34,6 +34,18 @@ span.italic {
   font-style: italic;
 }
 
+#blog .card-divider {
+  position: absolute;
+  background: #fff;
+  font-size: 0.9em;
+}
+
+#blog .loader {
+  text-align: center;
+  margin: 0 auto;
+  width: 16px;
+}
+
 #sidebar {
   text-align: center;
   position: relative;
@@ -41,6 +53,11 @@ span.italic {
   #sidebar ul {
     text-align: left;
   }
+
+  #sidebar h1 {
+    font-size: 1.8em;
+  }
+
   #sidebar ul > li {
     margin-top: 5px;
   }
@@ -84,6 +101,10 @@ span.italic {
     font-size: 2.4em;
     line-height: 0.5em;
     font-weight: 400;
+  }
+
+  #presentation p {
+    line-height: 0.8em;
   }
 
 
