@@ -2,7 +2,7 @@ $(function(){
   $(".love").typed({
     strings: [
       "open-source",
-      "FOSS software",
+      "HackerNews",
       "Vim",
       "Linux",
       "coffee",
