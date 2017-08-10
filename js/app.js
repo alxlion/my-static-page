@@ -14,6 +14,7 @@ $(function(){
       "Github",
       "hamburgers",
       "innovation",
+      "photography",
       "bitcoins",
       "reddit",
       "music",
