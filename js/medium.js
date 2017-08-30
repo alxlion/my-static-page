@@ -28,7 +28,7 @@ $(function () {
         trimmedString = trimmedString.substr(0, Math.min(trimmedString.length, trimmedString.lastIndexOf(" ")))
         output += '<p>' + trimmedString + '...</p>';
         output += '</div></div></div>';
-        return k < 3;
+        return k < 30;
       });
       $loader.hide();
       $content.html(output);
